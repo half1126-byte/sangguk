@@ -3,9 +3,9 @@ window.I18N = window.I18N || {};
 window.I18N.en = {
   "skip": "Skip to content",
   "brand.kr": "Premium Hanwoo",
-  "meta.title": "Sangguk's Hanwoo | Premium Korean Beef Gift Sets",
-  "meta.desc": "Sangguk's — premium 1++ grade Hanwoo (Korean beef) gift sets. Farm-direct, chilled same-day delivery, gift-wrapped. Seoul, Seongsu.",
-  "meta.ogtitle": "Sangguk's Hanwoo | Premium Korean Beef Gift Sets",
+  "meta.title": "Sangguk's Butcher | 26-Year Hanwoo · Korean Beef Gift Sets (Hwaseong)",
+  "meta.desc": "Sangguk's Butcher — 26 years of Hanwoo expertise in Hwaseong. 1++ grade Korean beef gift sets, cut fresh daily, farm-direct, chilled delivery.",
+  "meta.ogtitle": "Sangguk's Butcher | 26-Year Hanwoo · Korean Beef Gift Sets (Hwaseong)",
   "meta.ogdesc": "1++ grade Hanwoo gift sets. Farm-direct, chilled delivery, gift-wrapped.",
   "meta.locale": "en_US",
 
@@ -14,15 +14,15 @@ window.I18N.en = {
 
   "hero.eyebrow": "PREMIUM HANWOO GIFT",
   "hero.title": "A gift that carries care,<br><span class=\"accent\">the grade of Hanwoo</span>",
-  "hero.lead": "1++ grade Hanwoo, straight from the source. Sangguk's gift sets carry your gratitude in the most gracious way — for holidays and thank-yous alike.",
+  "hero.lead": "26 years of Hanwoo, by Sangguk. 1++ grade Korean beef straight from the source — carrying your gratitude in the most gracious way.",
   "hero.primary": "View gift sets", "hero.secondary": "Our story",
 
-  "trust.1": "1++ grade Hanwoo", "trust.2": "Farm-direct", "trust.3": "Chilled same-day delivery",
-  "trust.4": "Vacuum + ice-pack", "trust.5": "Gift wrapping", "trust.6": "Gift card included",
+  "trust.1": "26 years' tradition", "trust.2": "1++ grade Hanwoo", "trust.3": "Cut fresh · farm-direct",
+  "trust.4": "Chilled same-day", "trust.5": "Gift wrapping", "trust.6": "Gift card included",
 
   "story.eyebrow": "OUR PROMISE", "story.title": "A gift, too, has its grade",
-  "story.quote": "<span class=\"serif\">“We think of the person receiving it.”</span>",
-  "story.body": "Sangguk's puts honest grading and freshness first. Because it carries gratitude on a meaningful day, we receive the beef straight from the source and pack it, chilled, with care.",
+  "story.quote": "<span class=\"serif\">“Sangguk's honest, healthy Korean beef.”</span>",
+  "story.body": "Sangguk's Butcher has handled Korean beef in Hwaseong Namyang for 26 years. We put honest grading and freshness first — cut fresh daily and packed chilled, with care.",
 
   "sets.eyebrow": "GIFT SETS", "sets.title": "The gift-set lineup",
   "sets.lead": "Three compositions so you can choose by recipient and occasion. Weight, cut and grade are labeled per set.",
@@ -45,12 +45,12 @@ window.I18N.en = {
   "delivery.3t": "Order ahead for holidays", "delivery.3d": "Holiday seasons are busy, so cut-off dates are announced separately. Please order with time to spare.",
 
   "order.eyebrow": "ORDER & INQUIRY", "order.title": "Order & inquiry",
-  "order.addr_label": "Store", "order.addr": "00 Seongsu-ro, Seongdong-gu, Seoul",
-  "order.tel_label": "Order", "order.tel": "+82-2-000-0000",
-  "order.call": "Call to order", "order.kakao": "Order via KakaoTalk", "order.store": "Naver Store",
-  "order.note": "Contacts and channels shown are placeholders and will link to real ones.",
+  "order.addr_label": "Store", "order.addr": "86-13 Yeokgol-jungang-ro, Namyang-eup, Hwaseong, Gyeonggi (main)",
+  "order.tel_label": "Order", "order.tel": "0507-1359-4151",
+  "order.call": "Call to order", "order.insta": "Instagram", "order.kakao": "KakaoTalk", "order.store": "Naver Store",
+  "order.note": "Main 0507-1359-4151 · 2nd 0507-1483-3212 · KakaoTalk channel to be connected.",
   "hours.caption": "Hours (varies on holidays)",
-  "hours.r1d": "Mon–Sat", "hours.r1h": "10:00 – 20:00", "hours.r2d": "Sun & holidays", "hours.r2h": "Closed",
+  "hours.r1d": "Daily", "hours.r1h": "09:00 – 20:00", "hours.r2d": "Holidays", "hours.r2h": "Closed (notice)",
 
   "faq.q1": "How does delivery work?",
   "faq.a1": "Orders are vacuum-sealed with ice packs and shipped chilled, same or next day. Arrival may vary by region and order time.",
@@ -59,7 +59,7 @@ window.I18N.en = {
   "faq.q3": "Until when can I order holiday gifts?",
   "faq.a3": "During holiday seasons volume is concentrated, so order cut-off dates are announced separately. Order with time to spare and we'll deliver on your preferred date.",
 
-  "footer.biz": "Sangguk's Hanwoo · Biz reg. 000-00-00000 · Mail-order 0000-Seoul Seongdong-0000 · 00 Seongsu-ro, Seongdong-gu, Seoul · +82-2-000-0000",
+  "footer.biz": "Sangguk's Butcher · Owner Lee Sang-guk · 86-13 Yeokgol-jungang-ro, Namyang-eup, Hwaseong · 0507-1359-4151 · @sangguk_meat",
   "footer.note": "This page is a template draft; product, price and origin information will be replaced with real data.",
   "mcta.sets": "Gift sets", "mcta.order": "Call to order",
 

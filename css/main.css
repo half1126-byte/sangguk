@@ -258,7 +258,9 @@ html.js [data-reveal].is-visible .section__title { clip-path: inset(0 0 -5% 0); 
 /* 부위 갤러리 — 가로 스크롤 스냅 */
 .cuts { display: grid; grid-auto-flow: column; grid-auto-columns: 70%; gap: var(--space-4);
   overflow-x: auto; scroll-snap-type: x mandatory; margin-top: var(--space-8);
-  padding-bottom: var(--space-4); scrollbar-width: thin; }
+  padding-bottom: var(--space-4); scrollbar-width: thin; cursor: grab; }
+.cuts.is-grabbing { cursor: grabbing; scroll-snap-type: none; }
+.cuts.is-grabbing .cut { pointer-events: none; }
 @media (min-width:760px){ .cuts { grid-auto-columns: 30%; } }
 @media (min-width:1080px){ .cuts { grid-auto-columns: 23%; } }
 .cut { scroll-snap-align: start; position: relative; border-radius: var(--radius-lg); overflow: hidden; background: var(--ink-900); }
