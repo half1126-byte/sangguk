@@ -301,3 +301,23 @@ html.js [data-reveal].is-visible .section__title { clip-path: inset(0 0 -5% 0); 
 .finalcta .hero__actions { justify-content: center; }
 .finalcta__urgency { display: inline-block; margin-bottom: var(--space-5); color: var(--accent-500);
   font-size: var(--fs-small); font-weight: var(--w-semi); letter-spacing: .04em; }
+
+/* ============================================================
+   스크롤 스크럽 — 한우 마블링 단면 시네마틱 시퀀스 (검정 배경)
+   ============================================================ */
+.scrub { position: relative; height: 300vh; background: #000; }
+.scrub__stage { position: sticky; top: 0; height: 100svh; overflow: hidden; background: #000; }
+.scrub__canvas, .scrub__poster { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
+.scrub__canvas { z-index: 1; }
+.scrub__poster { z-index: 0; }
+.scrub__stage::after { content: ""; position: absolute; inset: 0; z-index: 2; pointer-events: none;
+  background: linear-gradient(180deg, rgba(0,0,0,.45) 0%, transparent 26%, transparent 64%, rgba(0,0,0,.78) 100%); }
+.scrub__inner { position: absolute; left: 0; right: 0; bottom: clamp(40px, 8vh, 96px); z-index: 3;
+  text-align: center; color: #fff; padding-inline: var(--gutter); }
+.scrub__inner .section__eyebrow { color: rgba(255,255,255,.6); }
+.scrub__title { font-size: var(--fs-h2); color: #fff; margin-top: var(--space-3); }
+.scrub__lead { color: rgba(255,255,255,.72); margin-top: var(--space-3); font-size: var(--fs-lead); }
+/* reduce-motion / 데이터절약 폴백: 핀 해제, 포스터 한 장만 */
+.scrub--static { height: auto; }
+.scrub--static .scrub__stage { position: static; height: auto; min-height: 70vh; }
+.scrub--static .scrub__canvas { display: none; }

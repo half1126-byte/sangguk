@@ -99,6 +99,8 @@ window.I18N.en = {
   "rev.r6": "Same-day delivery saved me when I was in a rush. The marbling blew me away.", "rev.r6w": "<b>Han</b> · Jeongseong set · 2026.01",
   "rev.note": "* Reviews shown are sample placeholders for design and will be replaced with real verified reviews in production (per e-commerce review regulations).",
 
+  "scrub.eyebrow": "THE MARBLING", "scrub.title": "The marbling speaks", "scrub.lead": "Scroll to reveal the cross-section of our Hanwoo.",
+
   "fcta.urgency": "⏰ Holiday delivery cut-off D-7 · Limited", "fcta.title": "Send your heart, now",
   "fcta.lead": "Carefully chosen Hanwoo, delivered in the most gracious way. Get ahead of the rush.",
   "fcta.cta": "Order a gift set", "fcta.call": "Call us"
