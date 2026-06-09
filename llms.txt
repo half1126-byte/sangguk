@@ -27,8 +27,8 @@
 - 명절 시즌 주문 마감일 별도 안내.
 
 ## 언어별 페이지
-- 한국어: https://half1126-byte.github.io/woodam/
-- English: https://half1126-byte.github.io/woodam/en/
+- 한국어: https://half1126-byte.github.io/sangguk/
+- English: https://half1126-byte.github.io/sangguk/en/
 
 ## Notes
 - 본 페이지는 템플릿 초안. 상품·가격·원산지·연락처는 실제 정보로 교체. 원산지·축산물 등급 표기 규정 준수.

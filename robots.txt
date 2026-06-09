@@ -23,4 +23,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://half1126-byte.github.io/woodam/sitemap.xml
+Sitemap: https://half1126-byte.github.io/sangguk/sitemap.xml

@@ -3,7 +3,7 @@
 "use strict";
 var fs = require("fs"), path = require("path");
 var ROOT = path.resolve(__dirname, ".."), SRC = path.join(ROOT, "index.html");
-var ORIGIN = "https://half1126-byte.github.io/woodam", BASE = "ko", LANGS = ["en"], GLOBAL = "I18N";
+var ORIGIN = "https://half1126-byte.github.io/sangguk", BASE = "ko", LANGS = ["en"], GLOBAL = "I18N";
 
 var win = {};
 [BASE].concat(LANGS).forEach(function (l) { new Function("window", fs.readFileSync(path.join(ROOT, "i18n", l + ".js"), "utf8"))(win); });
@@ -62,7 +62,7 @@ function replaceMeta(html, lang) {
   set(new RegExp('(<meta property="og:url" content=")' + esc + '\\/(")'), "$1" + u + "$2");
   return html;
 }
-/* 서브경로(/woodam/en/) 대응: 상대경로 자산 → ../ 로 (루트·서브경로 어디서나 작동) */
+/* 서브경로(/sangguk/en/) 대응: 상대경로 자산 → ../ 로 (루트·서브경로 어디서나 작동) */
 var rewriteAssets = function (h) { return h.replace(/(\s(?:href|src)=")(css\/|js\/|assets\/|i18n\/)/g, "$1../$2"); };
 
 var src = fs.readFileSync(SRC, "utf8");
