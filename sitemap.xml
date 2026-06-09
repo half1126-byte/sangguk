@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://half1126-byte.github.io/woodam/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://half1126-byte.github.io/woodam/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://half1126-byte.github.io/woodam/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://half1126-byte.github.io/woodam/" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://half1126-byte.github.io/woodam/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://half1126-byte.github.io/woodam/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://half1126-byte.github.io/woodam/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://half1126-byte.github.io/woodam/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>
