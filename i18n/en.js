@@ -1,11 +1,11 @@
-/* WOODAM Hanwoo — i18n dictionary: English */
+/* Sangguk's Hanwoo — i18n dictionary: English */
 window.I18N = window.I18N || {};
 window.I18N.en = {
   "skip": "Skip to content",
-  "brand.kr": "WOODAM Hanwoo",
-  "meta.title": "WOODAM Hanwoo | Premium Korean Beef Gift Sets",
-  "meta.desc": "WOODAM — premium 1++ grade Hanwoo (Korean beef) gift sets. Farm-direct, chilled same-day delivery, gift-wrapped. Seoul, Seongsu.",
-  "meta.ogtitle": "WOODAM Hanwoo | Premium Korean Beef Gift Sets",
+  "brand.kr": "Premium Hanwoo",
+  "meta.title": "Sangguk's Hanwoo | Premium Korean Beef Gift Sets",
+  "meta.desc": "Sangguk's — premium 1++ grade Hanwoo (Korean beef) gift sets. Farm-direct, chilled same-day delivery, gift-wrapped. Seoul, Seongsu.",
+  "meta.ogtitle": "Sangguk's Hanwoo | Premium Korean Beef Gift Sets",
   "meta.ogdesc": "1++ grade Hanwoo gift sets. Farm-direct, chilled delivery, gift-wrapped.",
   "meta.locale": "en_US",
 
@@ -14,7 +14,7 @@ window.I18N.en = {
 
   "hero.eyebrow": "PREMIUM HANWOO GIFT",
   "hero.title": "A gift that carries care,<br><span class=\"accent\">the grade of Hanwoo</span>",
-  "hero.lead": "1++ grade Hanwoo, straight from the source. WOODAM gift sets carry your gratitude in the most gracious way — for holidays and thank-yous alike.",
+  "hero.lead": "1++ grade Hanwoo, straight from the source. Sangguk's gift sets carry your gratitude in the most gracious way — for holidays and thank-yous alike.",
   "hero.primary": "View gift sets", "hero.secondary": "Our story",
 
   "trust.1": "1++ grade Hanwoo", "trust.2": "Farm-direct", "trust.3": "Chilled same-day delivery",
@@ -22,17 +22,17 @@ window.I18N.en = {
 
   "story.eyebrow": "OUR PROMISE", "story.title": "A gift, too, has its grade",
   "story.quote": "<span class=\"serif\">“We think of the person receiving it.”</span>",
-  "story.body": "WOODAM puts honest grading and freshness first. Because it carries gratitude on a meaningful day, we receive the beef straight from the source and pack it, chilled, with care.",
+  "story.body": "Sangguk's puts honest grading and freshness first. Because it carries gratitude on a meaningful day, we receive the beef straight from the source and pack it, chilled, with care.",
 
   "sets.eyebrow": "GIFT SETS", "sets.title": "The gift-set lineup",
   "sets.lead": "Three compositions so you can choose by recipient and occasion. Weight, cut and grade are labeled per set.",
   "sets.note": "* Composition, weight, price and grade are examples and will be replaced with real product data. Origin and grade labeling is observed.",
   "set.cta": "Inquire",
-  "set1.tier": "JEONGSEONG SET", "set1.name": "WOODAM Jeongseong", "set1.spec": "1+ grade · Sirloin & Striploin 1.2kg · chilled", "set1.price": "₩000,000 <small>incl. VAT</small>",
-  "set2.tier": "YEU SET · POPULAR", "set2.name": "WOODAM Yeu", "set2.spec": "1++ grade · Sirloin, Striploin & Tenderloin 1.8kg · chilled", "set2.price": "₩000,000 <small>incl. VAT</small>",
-  "set3.tier": "MYEONGGA SET", "set3.name": "WOODAM Myeongga", "set3.spec": "1++ grade (9) · Premium-cut assortment 2.4kg · chilled", "set3.price": "₩0,000,000 <small>incl. VAT</small>",
+  "set1.tier": "JEONGSEONG SET", "set1.name": "Sangguk's Jeongseong", "set1.spec": "1+ grade · Sirloin & Striploin 1.2kg · chilled", "set1.price": "₩000,000 <small>incl. VAT</small>",
+  "set2.tier": "YEU SET · POPULAR", "set2.name": "Sangguk's Yeu", "set2.spec": "1++ grade · Sirloin, Striploin & Tenderloin 1.8kg · chilled", "set2.price": "₩000,000 <small>incl. VAT</small>",
+  "set3.tier": "MYEONGGA SET", "set3.name": "Sangguk's Myeongga", "set3.spec": "1++ grade (9) · Premium-cut assortment 2.4kg · chilled", "set3.price": "₩0,000,000 <small>incl. VAT</small>",
 
-  "quality.eyebrow": "THE HANWOO", "quality.title": "Why WOODAM Hanwoo",
+  "quality.eyebrow": "THE HANWOO", "quality.title": "Why Sangguk's Hanwoo",
   "quality.lead": "Not just the grade — we think all the way to the moment it reaches the table.",
   "quality.1t": "Honest grading", "quality.1d": "Grade, weight and cut are clearly labeled per set, and you receive exactly the grade stated.",
   "quality.2t": "Farm-direct", "quality.2d": "Fewer middlemen, so we receive and pack it at its freshest.",
@@ -59,7 +59,7 @@ window.I18N.en = {
   "faq.q3": "Until when can I order holiday gifts?",
   "faq.a3": "During holiday seasons volume is concentrated, so order cut-off dates are announced separately. Order with time to spare and we'll deliver on your preferred date.",
 
-  "footer.biz": "WOODAM Hanwoo · Biz reg. 000-00-00000 · Mail-order 0000-Seoul Seongdong-0000 · 00 Seongsu-ro, Seongdong-gu, Seoul · +82-2-000-0000",
+  "footer.biz": "Sangguk's Hanwoo · Biz reg. 000-00-00000 · Mail-order 0000-Seoul Seongdong-0000 · 00 Seongsu-ro, Seongdong-gu, Seoul · +82-2-000-0000",
   "footer.note": "This page is a template draft; product, price and origin information will be replaced with real data.",
   "mcta.sets": "Gift sets", "mcta.order": "Call to order",
 

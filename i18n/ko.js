@@ -1,11 +1,11 @@
-/* 우담 한우 — i18n dictionary: 한국어 (base / source of truth) */
+/* 상국이네 정육점 — i18n dictionary: 한국어 (base / source of truth) */
 window.I18N = window.I18N || {};
 window.I18N.ko = {
   "skip": "본문 바로가기",
-  "brand.kr": "우담 한우",
-  "meta.title": "우담 한우 (WOODAM) | 프리미엄 한우 선물세트",
-  "meta.desc": "우담 한우 — 1++ 등급 한우 선물세트. 명절·감사 선물을 위한 산지직송, 냉장 당일배송, 정성 포장. 서울 성수.",
-  "meta.ogtitle": "우담 한우 (WOODAM) | 프리미엄 한우 선물세트",
+  "brand.kr": "정육점",
+  "meta.title": "상국이네 정육점 | 프리미엄 한우 선물세트",
+  "meta.desc": "상국이네 정육점 — 1++ 등급 한우 선물세트. 명절·감사 선물을 위한 산지직송, 냉장 당일배송, 정성 포장. 서울 성수.",
+  "meta.ogtitle": "상국이네 정육점 | 프리미엄 한우 선물세트",
   "meta.ogdesc": "1++ 등급 한우 선물세트. 산지직송·냉장 당일배송·정성 포장.",
   "meta.locale": "ko_KR",
 
@@ -14,25 +14,25 @@ window.I18N.ko = {
 
   "hero.eyebrow": "PREMIUM HANWOO GIFT",
   "hero.title": "마음을 담아 전하는,<br><span class=\"accent\">한우의 격</span>",
-  "hero.lead": "1++ 등급 한우를 산지에서 곧바로. 명절과 감사의 마음을 가장 정중한 방식으로 전하는 우담 한우 선물세트.",
-  "hero.primary": "선물세트 보기", "hero.secondary": "우담 이야기",
+  "hero.lead": "1++ 등급 한우를 산지에서 곧바로. 명절과 감사의 마음을 가장 정중한 방식으로 전하는 상국이네 정육점 선물세트.",
+  "hero.primary": "선물세트 보기", "hero.secondary": "상국이네 이야기",
 
   "trust.1": "1++ 등급 한우", "trust.2": "산지 직송", "trust.3": "냉장 당일배송",
   "trust.4": "진공·아이스팩 포장", "trust.5": "정성 선물 포장", "trust.6": "선물 카드 동봉",
 
   "story.eyebrow": "OUR PROMISE", "story.title": "선물에도, 격이 있습니다",
   "story.quote": "<span class=\"serif\">“받는 분의 격을 생각합니다.”</span>",
-  "story.body": "우담 한우는 정직한 등급과 신선함을 가장 중요하게 생각합니다. 좋은 날, 감사한 마음을 전하는 선물인 만큼 산지에서 곧바로 받아 냉장 그대로 정성껏 포장해 보내드립니다.",
+  "story.body": "상국이네 정육점은 정직한 등급과 신선함을 가장 중요하게 생각합니다. 좋은 날, 감사한 마음을 전하는 선물인 만큼 산지에서 곧바로 받아 냉장 그대로 정성껏 포장해 보내드립니다.",
 
   "sets.eyebrow": "GIFT SETS", "sets.title": "선물세트 라인업",
   "sets.lead": "받는 분과 자리에 맞춰 고르실 수 있도록 세 가지 구성으로 준비했습니다. 중량·부위·등급은 세트별로 표기됩니다.",
   "sets.note": "※ 구성·중량·가격·등급은 예시이며 실제 상품 정보로 교체됩니다. 원산지·등급은 표기를 준수합니다.",
   "set.cta": "주문 문의",
-  "set1.tier": "정성 SET", "set1.name": "우담 정성 세트", "set1.spec": "1+ 등급 · 등심·채끝 1.2kg · 냉장", "set1.price": "₩000,000 <small>VAT 포함</small>",
-  "set2.tier": "예우 SET · 인기", "set2.name": "우담 예우 세트", "set2.spec": "1++ 등급 · 등심·채끝·안심 1.8kg · 냉장", "set2.price": "₩000,000 <small>VAT 포함</small>",
-  "set3.tier": "명가 SET", "set3.name": "우담 명가 세트", "set3.spec": "1++ 등급(9) · 특수부위 모둠 2.4kg · 냉장", "set3.price": "₩0,000,000 <small>VAT 포함</small>",
+  "set1.tier": "정성 SET", "set1.name": "상국이네 정성 세트", "set1.spec": "1+ 등급 · 등심·채끝 1.2kg · 냉장", "set1.price": "₩000,000 <small>VAT 포함</small>",
+  "set2.tier": "예우 SET · 인기", "set2.name": "상국이네 예우 세트", "set2.spec": "1++ 등급 · 등심·채끝·안심 1.8kg · 냉장", "set2.price": "₩000,000 <small>VAT 포함</small>",
+  "set3.tier": "명가 SET", "set3.name": "상국이네 명가 세트", "set3.spec": "1++ 등급(9) · 특수부위 모둠 2.4kg · 냉장", "set3.price": "₩0,000,000 <small>VAT 포함</small>",
 
-  "quality.eyebrow": "THE HANWOO", "quality.title": "왜 우담 한우인가",
+  "quality.eyebrow": "THE HANWOO", "quality.title": "왜 상국이네 정육점인가",
   "quality.lead": "등급만이 아니라, 받는 분의 식탁에 오르는 순간까지 생각합니다.",
   "quality.1t": "정직한 등급", "quality.1d": "세트별 등급·중량·부위를 명확히 표기하고, 표기 등급 그대로 보내드립니다.",
   "quality.2t": "산지 직송", "quality.2d": "중간 유통을 줄여 신선한 상태 그대로 받아 포장합니다.",
@@ -59,7 +59,7 @@ window.I18N.ko = {
   "faq.q3": "명절 선물 주문은 언제까지 가능한가요?",
   "faq.a3": "명절 시즌에는 물량이 집중되어 주문 마감일을 별도 안내합니다. 여유 있게 주문해 주시면 원하시는 날짜에 맞춰 배송해 드립니다.",
 
-  "footer.biz": "우담 한우 · 사업자등록번호 000-00-00000 · 통신판매업 0000-서울성동-0000 · 서울 성동구 성수로 00 · 02-000-0000",
+  "footer.biz": "상국이네 정육점 · 사업자등록번호 000-00-00000 · 통신판매업 0000-서울성동-0000 · 서울 성동구 성수로 00 · 02-000-0000",
   "footer.note": "본 페이지는 템플릿 초안이며, 상품·가격·원산지 정보는 실제 정보로 교체됩니다.",
   "mcta.sets": "선물세트", "mcta.order": "전화 주문",
 
